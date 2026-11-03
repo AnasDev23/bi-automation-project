@@ -112,18 +112,28 @@ application execution.
 
 ### 1. Executive Dashboard
 
-![BI Executive Dashboard](docs/images/01-executive-dashboard.png)
+![BI Executive Dashboard](docs/images/dashboard.png)
 
 ### 2. Executive Summary
 
-![BI Executive Summary](docs/images/02-executive-summary.png)
+![BI Executive Summary](docs/images/executive_summary.png)
 
-### 3. Application Execution in PyCharm
+### 3. Yearly Sales
 
-![PyCharm Execution](docs/images/03-pycharm-execution.png)
+![Yearly Sales](docs/images/yearly_sales.png)
 
-> Replace these image files with your actual screenshots. Keep the
-> filenames and directory structure consistent with the references.
+### 3. Monthly Sales
+
+![Monthly Sales](docs/images/monthly_sales.png)
+
+### Top Cities by Sales
+
+![Top Cities](docs/images/top_cities.png)
+
+### Department Performance
+
+![Department Performance](docs/images/dept_performance.png)
+
 
 ## Project Architecture
 
